@@ -1,7 +1,7 @@
 # 📊 Data Analysis Portfolio
 **Nguyen Thi Viet Thuong** · [LinkedIn](https://linkedin.com/in/nguyenthivietthuong)
 
-EDA projects using Python, SQL, and Power BI.
+EDA projects using Python, SQL, and Tableau.
 
 ---
 
